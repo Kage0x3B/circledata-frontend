@@ -1,0 +1,19 @@
+{
+  "name": "circledata-frontend",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kage0x3B/circledata-frontend.git"
+  },
+  "author": "Moritz Hein <moritz.hein@live.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kage0x3B/circledata-frontend/issues"
+  },
+  "homepage": "https://github.com/Kage0x3B/circledata-frontend#readme"
+}
