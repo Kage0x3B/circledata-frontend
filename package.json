@@ -20,6 +20,8 @@
     },
     "homepage": "https://github.com/Kage0x3B/circledata-frontend#readme",
     "dependencies": {
+        "circledata-common": "file:../common",
+        "class-validator": "^0.13.1",
         "svelte": "^3.35.0"
     },
     "devDependencies": {
@@ -30,15 +32,19 @@
         "@types/snowpack-env": "^2.3.3",
         "@typescript-eslint/eslint-plugin": "^4.19.0",
         "@typescript-eslint/parser": "^4.19.0",
+        "autoprefixer": "^10.2.5",
         "eslint": "^7.23.0",
         "eslint-config-prettier": "^8.1.0",
         "eslint-config-standard-with-typescript": "^20.0.0",
         "eslint-plugin-import": "^2.22.1",
         "eslint-plugin-node": "^11.1.0",
         "eslint-plugin-promise": "^4.3.1",
+        "postcss": "^8.2.8",
+        "postcss-nesting": "^7.0.1",
         "prettier": "^2.2.1",
         "snowpack": "^3.1.2",
         "svelte-preprocess": "^4.7.0",
+        "tailwindcss": "^2.0.4",
         "typescript": "^4.2.3"
     }
 }

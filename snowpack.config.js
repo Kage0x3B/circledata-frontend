@@ -16,5 +16,6 @@ module.exports = {
     },
     packageOptions: {},
     devOptions: {},
-    buildOptions: {}
+    buildOptions: {},
+    workspaceRoot: "../"
 };
